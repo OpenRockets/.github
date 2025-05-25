@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://i.ibb.co/gLFS089m/3dgifmaker16235.gif" alt="Demo GIF" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);">
-  <span>OpenRockets</span>
+  <h1>OpenRockets</h1>
 </p>
 
 <hr>
-## Latest in Open-source
-# The Web Developer's Handbook Project
+<h2>∑ Latest in Open-source</h2>
+The Web Developer's Handbook Project
 
 ## 💡 Solving the Web's Peskiest Puzzles: Introducing the Web Dev Error Solutions Handbook! 🚀
 
