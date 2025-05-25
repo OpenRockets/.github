@@ -1,7 +1,7 @@
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/gLFS089m/3dgifmaker16235.gif" alt="Demo GIF" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);">
 </p>
-
+## OpenRockets Open-source Developer Network
 <hr>
 <h1>🔴 LATEST PROJECTS</h1>
 
