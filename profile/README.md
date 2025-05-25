@@ -5,6 +5,7 @@
 
 <hr>
 <h2>∑ Latest in Open-source</h2>
+
 [![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Developer's%20Handbook%20Project%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
 ## 💡 Solving the Web's Peskiest Puzzles: Introducing the Web Dev Error Solutions Handbook! 🚀
 
