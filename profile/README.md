@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://i.ibb.co/gLFS089m/3dgifmaker16235.gif" alt="Demo GIF" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);">
-  <h1>OpenRockets</h1>
 </p>
 
 <hr>
-<h2>∑ Latest in Open-source</h2>
+<h1>🔴 LATEST PROJECTS</h1>
 
 [![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Developer's%20Handbook%20Project%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
-## 💡 Solving the Web's Peskiest Puzzles: Introducing the Web Dev Error Solutions Handbook! 🚀
+
+## 💡 **The Web Developer's Essential Troubleshooting Companion: The Web Dev Error Solutions Handbook!** 🚀
 
 Tired of those head-scratching moments when a line of code throws an unexpected error? We get it! That's why our community has been hard at work building a powerful new resource: **The Web Dev Error Solutions Handbook**! 
 
