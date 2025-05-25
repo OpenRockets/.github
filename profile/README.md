@@ -5,8 +5,7 @@
 
 <hr>
 <h2>∑ Latest in Open-source</h2>
-The Web Developer's Handbook Project
-
+[![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Developer's%20Handbook%20Project%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
 ## 💡 Solving the Web's Peskiest Puzzles: Introducing the Web Dev Error Solutions Handbook! 🚀
 
 Tired of those head-scratching moments when a line of code throws an unexpected error? We get it! That's why our community has been hard at work building a powerful new resource: **The Web Dev Error Solutions Handbook**! 
@@ -29,7 +28,7 @@ This isn't just another documentation project; it's a **community-curated knowle
 
 Dive into the **Web Dev Error Solutions Handbook** repository and become part of this valuable initiative!
 
-[![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Dev%20Error%20Solutions%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
+[![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Developer's%20Handbook%20Project%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
 
 **Want to contribute your expertise?** We welcome developers of all levels! Check out the contributing guidelines within the Handbook's repository.
 
