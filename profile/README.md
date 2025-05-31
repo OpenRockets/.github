@@ -1,7 +1,5 @@
-<p align="left">
-  <img src="https://i.ibb.co/gLFS089m/3dgifmaker16235.gif" alt="Demo GIF" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);">
-</p>
-<h1>OpenRockets<br>Open-source Developer Network</h1>
+# **OpenRockets** | The Open-source Developer Network 
+
 <hr>
 <h1>🔴 LATEST PROJECTS</h1>
 
@@ -33,4 +31,4 @@ Dive into the **Web Dev Error Solutions Handbook** repository and become part of
 
 **Want to contribute your expertise?** We welcome developers of all levels! Check out the contributing guidelines within the Handbook's repository.
 
-Let's make debugging less of a headache, together! 💪
+<hr>
