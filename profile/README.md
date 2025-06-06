@@ -1,7 +1,7 @@
 # **OpenRockets** | The Open-source Developer Network 
 
-<a href="https://discord.gg/ptbjHFTj"><img src="https://discord.com/api/guilds/1370637132523110451/widget.png?style=banner2"></a>
 
+<a href="https://discord.gg/ptbjHFTj"><img src="https://discord.com/api/guilds/1370637132523110451/widget.png?style=banner2"></a>
 <hr>
 <h1>🔴 LATEST PROJECTS</h1>
 
