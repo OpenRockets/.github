@@ -1,5 +1,5 @@
 
-![ChatGPT_Image_May_10__2025__11_25_10_AM-removebg-preview](https://github.com/user-attachments/assets/b9d72bc8-3671-4060-9e0b-e221fc4837c3)
+![logo](https://github.com/user-attachments/assets/44a4e174-ced7-4948-b673-156f21660cd4)
 
 # **OpenRockets** 
 ## The Open-source Developer Network
