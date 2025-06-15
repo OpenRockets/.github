@@ -7,6 +7,12 @@
 <hr>
 <h1>🔴 LATEST PROJECTS</h1>
 
+## Add OpenRockets **GITSTARS®** Verification to your Repository.
+
+[![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/GITSTARS®-%2324292e?style=for-the-badge&logo=github)](https://www.openrockets.me/v/2025)
+
+<a href="https://openrockets.me/v/2025"><img src="https://openrockets.me/v/gitstarts2025v.png"></a>
+
 [![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/Web%20Developer's%20Handbook%20Project%20Repo-%2324292e?style=for-the-badge&logo=github)](https://github.com/openrockets/web-dev-error-solutions)
 
 ## **The Web Developer's Essential Troubleshooting Companion: The Web Dev Error Solutions Handbook!** 🚀
