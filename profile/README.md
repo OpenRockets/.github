@@ -9,7 +9,7 @@
 
 ## Add OpenRockets **GITSTARS®** Verification to your Repository.
 
-[![Link to Web Dev Error Solutions Handbook Repository](https://shields.io/badge/GITSTARS®-%2324292e?style=for-the-badge&logo=github)](https://www.openrockets.me/v/2025)
+[![Link to Web](https://shields.io/badge/GET%20GITSTARS®-%2324292e?style=for-the-badge&logo=github)](https://www.openrockets.me/v/2025)
 
 <a href="https://openrockets.me/v/2025"><img src="https://openrockets.me/v/gitstarts2025v.png"></a>
 
