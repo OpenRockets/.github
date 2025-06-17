@@ -1,4 +1,6 @@
- ![G-summer](https://github.com/user-attachments/assets/5cc712ee-3644-44d3-a4ed-86aa3a33a351)
+
+![G-after-summer](https://github.com/user-attachments/assets/fb001a0c-6847-4d4d-9abe-08bfbfb394e0)
+
 
 
 # **OpenRockets** 
