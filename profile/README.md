@@ -1,5 +1,5 @@
+ ![G-summer](https://github.com/user-attachments/assets/5cc712ee-3644-44d3-a4ed-86aa3a33a351)
 
-![logo](https://github.com/user-attachments/assets/44a4e174-ced7-4948-b673-156f21660cd4)
 
 # **OpenRockets** 
 ## The Open-source Developer Network
