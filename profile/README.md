@@ -9,6 +9,9 @@
 <hr>
 <h1>🔴 LATEST PROJECTS</h1>
 
+## 🙋‍♂️ Ask your problems in [Discussions](https://github.com/orgs/OpenRockets/discussions/7 )!
+![banner](https://github.com/user-attachments/assets/9c3c4471-c29b-43fb-8e71-981b5ba85e1b)
+
 ## Add OpenRockets **GITSTARS®** Verification to your Repository.
 
 [![Link to Web](https://shields.io/badge/GET%20GITSTARS®-%2324292e?style=for-the-badge&logo=github)](https://www.openrockets.me/v/2025)
